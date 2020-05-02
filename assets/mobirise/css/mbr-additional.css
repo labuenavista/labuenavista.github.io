@@ -1096,11 +1096,16 @@ section.lazy-placeholder:after {
 }
 .cid-qTkA127IK8 H1 {
   color: #635a51;
-  text-align: center;
+  text-align: left;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #4f4943;
+  text-align: left;
+}
+.cid-qTkA127IK8 H3 {
+  color: #82786e;
+  text-align: left;
 }
 .cid-rXOKKDomIN {
   padding-top: 45px;
