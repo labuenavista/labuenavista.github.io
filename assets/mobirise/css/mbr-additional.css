@@ -1110,6 +1110,13 @@ section.lazy-placeholder:after {
 .cid-rXOKKDomIN .item {
   padding-bottom: 2rem;
 }
+.cid-rXOKKDomIN .item-wrapper {
+  height: 100%;
+}
+.cid-rXOKKDomIN .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
+}
 .cid-rXOKKDomIN .carousel-control,
 .cid-rXOKKDomIN .close {
   background: #1b1b1b;
@@ -1495,6 +1502,9 @@ section.lazy-placeholder:after {
 .cid-rXPEwBOAU4 a.img {
   pointer-events: none;
 }
+.cid-rXPEwBOAU4 H4 {
+  text-align: left;
+}
 .cid-rXPEJkpzPX {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1694,4 +1704,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXPEJkpzPX a.img {
   pointer-events: none;
+}
+.cid-rXPEJkpzPX H4 {
+  text-align: right;
 }
