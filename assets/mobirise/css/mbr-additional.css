@@ -1008,7 +1008,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s4PhRsAs6u {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/golfo-di-baratti-2000x1125.jpg");
 }
@@ -1418,6 +1418,9 @@ section.lazy-placeholder:after {
 }
 .cid-rXPRg1jyNm .mbr-text {
   color: #232323;
+}
+.cid-rXPRg1jyNm H2 {
+  color: #4f4943;
 }
 .cid-rXUoxD7IpE {
   padding-top: 30px;
