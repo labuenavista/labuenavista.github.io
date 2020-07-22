@@ -1317,7 +1317,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXPPntq32C .card-box {
   padding: 2rem;
-  background-color: #ffffff;
+  background-color: #cebfaf;
 }
 .cid-rXPPntq32C h4 {
   font-weight: 500;
@@ -1529,87 +1529,41 @@ section.lazy-placeholder:after {
 .cid-s5nk7qUoRL H2 {
   color: #4f4943;
 }
-.cid-s5nuEFCpuI {
+.cid-s5si9ZPz9z {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #cebfaf;
 }
-.cid-s5nuEFCpuI h2 {
-  text-align: left;
+.cid-s5si9ZPz9z .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-s5nuEFCpuI h4 {
-  text-align: left;
+.cid-s5si9ZPz9z H2 {
+  color: #4f4943;
+}
+.cid-s5sfPIPHTY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cebfaf;
+}
+.cid-s5sfPIPHTY h4 {
   font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-s5nuEFCpuI p {
+.cid-s5sfPIPHTY p {
   color: #767676;
   text-align: left;
 }
-.cid-s5nuEFCpuI .aside-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
+.cid-s5sfPIPHTY .card-box {
+  padding-top: 2rem;
 }
-.cid-s5nuEFCpuI .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
+.cid-s5sfPIPHTY .card-wrapper {
+  height: 100%;
 }
-.cid-s5nuEFCpuI .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
+.cid-s5sfPIPHTY .card-title {
+  color: #4f4943;
 }
-.cid-s5nuEFCpuI .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-s5nuEFCpuI .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-s5nuEFCpuI .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-s5nuEFCpuI .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-  .cid-s5nuEFCpuI .media-container-row {
-    -webkit-flex-direction: row-reverse;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s5nuEFCpuI .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
-  .cid-s5nuEFCpuI .media-container-row {
-    -webkit-flex-direction: column-reverse;
-  }
-}
-@media (max-width: 300px) {
-  .cid-s5nuEFCpuI .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-s5nuEFCpuI P {
-  text-align: left;
-}
-.cid-s5nuEFCpuI .mbr-text {
-  color: #232323;
-}
-.cid-s5nuEFCpuI H2 {
+.cid-s5sfPIPHTY P {
   color: #4f4943;
 }
 .cid-s5nuoroAXw {
